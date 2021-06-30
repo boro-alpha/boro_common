@@ -1,8 +1,8 @@
 # BORO Common
 
-BORO Common is a reference library containing utility functions that are being used by other projects within the BORO domain - see links below.
+BORO Common is a reference library containing enumerations that are being used by other projects within the BORO domain - see links below.
 
-**This project is currently closed, but can be sporadically updated by the BORO Development Team it in the future.**
+**This project is currently closed, but may be sporadically updated by the BORO Development Team in the future.**
 
 ## Execution
 
@@ -12,7 +12,7 @@ BORO Common is a reference library containing utility functions that are being u
 
 For examples see usages in the following projects:
 
-* https://github.com/boro-alpha/bclearer_boson_1.git
+* https://github.com/boro-alpha/bclearer_boson_1_1.git
 
 ## Documentation
 
